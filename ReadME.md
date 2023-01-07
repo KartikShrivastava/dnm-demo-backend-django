@@ -8,8 +8,14 @@
   DATABASE_USER=your_psql_username  
   DATABASE_PASS=your_psql_password  
 
-## Flutter app models class diagram
-![legacy models](diagrams/flutter_app_model_class_diag.png)
+***
+### User model class and ER diagram
+![user model](diagrams/user_model.png)
 
-## System overview diagram
+***
+### System overview diagram
 ![system overview](diagrams/architecture_diag.png)
+
+***
+### Legacy flutter app class diagram
+![legacy models](diagrams/flutter_app_model_class_diag.png)
